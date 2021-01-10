@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:actionProviderClass="http://schemas.android.com/tools">
+    <item android:id="@+id/star"
+        android:icon="@drawable/ic_baseline_star_border_24"
+        android:title="Bookmark this page"
+        />
+    <item android:id="@+id/collection"
+        android:icon="@drawable/ic_baseline_collections_bookmark_24"
+        android:title="View bookmarked pages"
+        >
+    </item>
+</menu>

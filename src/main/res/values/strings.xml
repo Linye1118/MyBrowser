@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="check_connection">Please check internet connection</string>
+
+    <string-array name="bookmark_urls">
+        <item>https://google.com</item>
+        <item>https://youtube.com</item>
+        <item>https://facebook.com</item>
+    </string-array>
+    
+    <string-array name="titles">
+        <item>Random titles</item>
+        <item>Random titles</item>
+        <item>Random titles</item>
+    </string-array>
+
+</resources>
